@@ -1,0 +1,17 @@
+MAIN
+im09.jpg	0.5
+im1.jpg	0.982955
+im10.jpg	1
+im11.jpg	0.681818
+im12.jpg	0.818182
+im13.jpg	1
+im14.jpg	1
+im15.jpg	0.833333
+im2.jpg	0.581818
+im3.jpg	0.689394
+im4.jpg	1
+im5.jpg	1
+im6.jpg	0.666667
+im7.jpg	0.613636
+im8.jpg	0.772727
+MeanMAP 0.809369

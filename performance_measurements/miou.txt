@@ -1,0 +1,17 @@
+MAIN
+im09.jpg	0.829147
+im1.jpg	0.960062
+im10.jpg	0.901965
+im11.jpg	0.705137
+im12.jpg	0.809015
+im13.jpg	0.688354
+im14.jpg	0.904782
+im15.jpg	0.928528
+im2.jpg	0.890973
+im3.jpg	0.728529
+im4.jpg	0.978624
+im5.jpg	0.870717
+im6.jpg	0.575289
+im7.jpg	0.958076
+im8.jpg	0.735738
+MeanMIOU 0.830996
